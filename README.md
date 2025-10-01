@@ -1,2 +1,2 @@
 # dynamic-to-do-list-js
-My to app project
+My to do app project.
